@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachinkhatrilin
 - 👀 I’m interested in app and web development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and javascript
 - 💞️ I’m looking to collaborate on java development
 - 📫 How to reach me ...
 
