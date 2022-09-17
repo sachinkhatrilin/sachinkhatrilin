@@ -1,7 +1,6 @@
 - 👋 Hi, I’m **Sachin Khatri** @sachinkhatripro
-- 👀 I’m interested in app and web development
-- 🌱 I’m currently learning **java and javascript**
-- 💞️ I’m looking to collaborate on java development
+- 👀 I’m interested in app and web development- 🌱 
+- 💞️ I’m looking to collaborate on projects involving java
 - 📫 mail me at **sachinkhatridesign@gmail.com**
 
 <!---
