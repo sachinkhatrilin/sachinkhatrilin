@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Sachin Khatri** @sachinkhatripro
 - 👀 I’m interested in app and web development- 🌱 
-- 💞️ I’m looking to collaborate on projects involving java
+- 💞️ I’m looking to collaborate on projects involving Android apps development, plugin development using Flutter, kotlin, java.
 - 📫 mail me at **sachinkhatridesign@gmail.com**
 
 <!---
